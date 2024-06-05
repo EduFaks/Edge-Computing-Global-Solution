@@ -11,7 +11,7 @@ O projeto Global Solution 2024 tem como objetivo monitorar diversos parâmetros 
 ## Demonstracao
 
 - Simulador: https://wokwi.com/projects/399820727907001345
-- Video Explicativo: https://github.com/EduFaks/Edge-Computing-Global-Solution/blob/main/adicionais/explanation.mp4?raw=true
+- Video Explicativo: https://github.com/EduFaks/Edge-Computing-Global-Solution/blob/main/adicionais/explanation.mp4
 
 ## Descrição dos Arquivos
 
