@@ -11,7 +11,7 @@ O projeto Global Solution 2024 tem como objetivo monitorar diversos parâmetros 
 ## Demonstracao
 
 - Simulador: https://wokwi.com/projects/399820727907001345
-- Video Explicativo: https://github.com/EduFaks/Edge-Computing-Global-Solution/blob/explanation.mp4?raw=true
+- Video Explicativo: https://github.com/EduFaks/Edge-Computing-Global-Solution/blob/main/adicionais/explanation.mp4?raw=true
 
 ## Descrição dos Arquivos
 
@@ -46,7 +46,7 @@ As seguintes bibliotecas devem ser instaladas no Arduino IDE para que o projeto 
 4. Conecte o acelerômetro e giroscópio (MPU6050) aos pinos I2C do Arduino (A4 para SDA e A5 para SCL).
 
 
-![circuit](https://github.com/EduFaks/Edge-Computing-Global-Solution/blob/circuit.png?raw=true)
+![circuit](https://github.com/EduFaks/Edge-Computing-Global-Solution/blob/main/adicionais/circuit.png?raw=true)
 
 
 ## Futuras Implementações
